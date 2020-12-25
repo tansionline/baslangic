@@ -1,2 +1,5 @@
 # baslangic
-Bu repo benim en iyi repom olacak
+
+## Bu repo neyin nesi?
+
+- Online Workshop  
