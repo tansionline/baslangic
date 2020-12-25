@@ -1,7 +1,7 @@
 
-## Bu repo neyin nesi?
+## Bu depoda neler var?
 
-- Online Workshop 
+- Online Workshop için hazırlanmış bir depo olup içinde workshopdaki problemleri, problemlerin cevaplarını, konu anlatımları ve slaytları içermektedir.  
 
 ## Bu workshopda neler öğreneceğiz?
 
