@@ -3,7 +3,7 @@
 
 - Online Workshop 
 
-## Workshopda neler öğreneceğiz?
+## Bu workshopda neler öğreneceğiz?
 
 - Basit terminal kullanımı, basit Git, GitHub, HTML, CSS. En sonunda yazdığımız web sayfasını GitHub Pages üzerinden paylaşacağız.
 
