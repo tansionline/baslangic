@@ -36,9 +36,9 @@ Terminalimize`pwd` komutunu yazarsak bizlere `/home/tasn4/Desktop/` gibi bir ç�
 
 ## $ cd
 
-**cd** komutu klasör ve dizinler arasında gezinmemize yarar.
+**cd** komutu dizinler arasında gezinmemizi sağlar. 
 
-`cd ..` ile bir geri klasöre girmiş oluyoruz.
+`cd ..` ile bir geri klasöre girmiş oluyoruz veya ```cd resimlerim``` ile ```resimlerim``` adlı klasöre gitmiş oluyoruz. 
 
 ## $ mv
 
