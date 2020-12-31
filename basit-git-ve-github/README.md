@@ -24,3 +24,6 @@ Yaptığımız değişiklikleri adım adım kaydeden, gizli kahramanımız.
 
 Örnek: ´´´ git push ´´´ 
 
+
+Okuyabileceğiniz Kaynaklar (ENG) : [Git Commands](https://www.atlassian.com/git/tutorials/saving-changes) 
+
