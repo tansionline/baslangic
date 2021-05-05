@@ -12,17 +12,17 @@ Yaptığımız değişiklikleri adım adım kaydeden, gizli kahramanımız.
 
 # Basit Git Komutlarımız 
 
-´´´git add´´´ komutu çalıştığımız dizini değişenler olarak eklememizi sağlayan komuttur.
+```git add``` komutu çalıştığımız dizini değişenler olarak eklememizi sağlayan komuttur.
 
-Örnek: ´´´ git add selam.txt ´´´ 
+Örnek: ``` git add selam.txt ``` 
 
-´´´ git commit ´´´ komutu değişiklik yaptığımız klasör ve dosyalara yorum eklememizi sağlar.
+``` git commit ``` komutu değişiklik yaptığımız klasör ve dosyalara yorum eklememizi sağlar.
 
-Örnek: ´´´ git commit -m "Selam dosyası eklendi" 
+Örnek: ``` git commit -m "Selam dosyası eklendi" ``` 
 
-´´´ git push ´´´ komutu klasör ve dosyaları lokalimizden uzaktaki depomuza atmamızı sağlar. 
+``` git push ``` komutu klasör ve dosyaları lokalimizden uzaktaki depomuza atmamızı sağlar. 
 
-Örnek: ´´´ git push ´´´ 
+Örnek: ``` git push ``` 
 
 
 Okuyabileceğiniz Kaynaklar (ENG) : [Git Commands](https://www.atlassian.com/git/tutorials/saving-changes) 
